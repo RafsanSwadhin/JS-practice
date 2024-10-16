@@ -1,0 +1,14 @@
+artihmetic operator
+(+,-,*,/,%,++,--)
+comparison operator
+== , < , > etc
+(===) identical (equal and of same data type ) 
+(!==) not identical
+
+logical operator (%%,||,!)
+(10==20 && 20 == 33) = false logical AND
+(10==20 || 20 == 33) = false logical OR 
+!(10==20)= true logical not
+
+assignment operators
+(=) assign, += add and assign, -= substract and assign
